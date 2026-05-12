@@ -5,7 +5,7 @@
 | Name | University | GitHub Handle |
 | :--- | :--- | :--- |
 | Erica Kim | Tufts University | [@EricaMKim] |
-| [Name 2] | | [@handle] | 
+| Kesline Jean Baptiste | UMass Boston | [@kesline] | 
 | [Name 3] | | [@handle] | 
 | [Name 4] | | [@handle] |
 
